@@ -31,6 +31,7 @@ More beautiful and more feature.
  - [x] Import & Export
  - [x] Add stored tabs to history
  - [x] I18N support (only English & Chinese currently)
+ - [ ] this is a test(DS)
 
 More details in [changelog](CHANGELOG.md)
 
